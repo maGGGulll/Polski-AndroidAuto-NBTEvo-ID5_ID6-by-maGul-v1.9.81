@@ -1,0 +1,39 @@
+***************maGul***************
+
+Jeśli instalacja się zatrzymuje, to w pierwszej kolejności zainstaluj AndroidAuto programem z folderu "Ewentualnie można to". Android Auto zainstaluje się w wersji angielskiej, użyj następnie mojego instalatora w folderze "maGul", a system zyska nowe ikony i pełne tłumaczenie na język polski. 
+
+
+**0. Pendrive FAT32 lub exFAT**
+- Pendrive musi zostać sformatowany w systemie plików FAT32 lub exFAT. Możesz to zrobić, klikając prawym przyciskiem myszy na pendriva w Mój komputer, wybierając opcję formatowania, a następnie wskazując system FAT32 lub exFAT. *!*!Nie wybieraj systemu NTFS*!*!
+- Do głównej pamięci pendriva wklej plik nbt-aad oraz Releases.
+- Tak przygotowany pendrive podłącz do USB w podłokietniku w samochodzie. 
+
+**1. Podłączenie**
+- Podłącz laptop do samochodu kablem ENET.
+- Włącz zapłon.
+- Zapewnij laptopowi dostęp do internetu.
+
+**2. Bavarian SSH Client**
+- Uruchom bavarian-ssh-client.exe
+- Kliknij **Enable SSH**, aby tymczasowo odblokować SSH.
+- Pozostaw program uruchomiony.
+
+**3. BMW TurboCode Proxy**
+- Uruchom BMW TurboCode Proxy.
+- Kliknij **Search ZGW**.
+- Poczekaj, aż program wykryje samochód i wyświetli VIN
+- Kliknij Start i pozostaw program włączony
+- Sprawdź, czy pojawi się komunikat o przekierowaniu portu SSH
+
+**4. Uruchomienie instalatora
+
+- Otwórz folder maGul, który jest skopiowany na dysk C:\
+- Uruchom plik RUN.bat
+- Postępuj zgodnie z instrukcjami wyświetlanymi w oknie programu.
+- Nie zamykaj Bavarian ani BMW TurboCode Proxy podczas wykonywania instalacji.
+
+#!#!#!  JESLI PODCZAS INSTALACJI POPROSI O HASŁO DO NBT WPISZ TO: ts&SK412
+
+
+
+Przydatne linki: https://github.com/Sq00ky/Supra-iDrive6-Android-Auto/blob/main/install.md
